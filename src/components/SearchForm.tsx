@@ -73,7 +73,7 @@ const SearchForm: FC = () => {
 						type='submit'
 						className=' text-purple-700 hover:text-white border border-purple-700 hover:bg-purple-800 focus:ring-4 focus:outline-none focus:ring-purple-600 font-medium rounded-lg text-xl px-10 py-3 text-center mb-2 disabled:cursor-not-allowed disabled:bg-purple-600 disabled:text-gray-300'
 						disabled={!isValid}>
-						Submit
+						Search
 					</button>
 				)}
 			</div>
